@@ -1,0 +1,18 @@
+[
+  {
+    "meal_name": "French Bread with Brie Cheese",
+    "description": "French baguette with warm brie",
+    "meal_id": "1",
+    "has_nuts": false,
+    "has_meat": false,
+    "filename": "01-meal.jpeg"
+  },
+  {
+    "meal_name": "Cheese Plate with Spanish Chorizo",
+    "description": "Manchego, Iberico, Cabrales, fig jam, grapes, pecans, and Spanich Chorizo",
+    "meal_id": "3",
+    "has_nuts": true,
+    "has_meat": false,
+    "filename": "01-meal.jpeg"
+  }
+]
